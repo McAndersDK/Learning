@@ -20,3 +20,8 @@ List of learning resources.
 ## Free books
 
 - [Powershell 4 Noobs](https://leanpub.com/powershell-4n00bs) (from 0 $)
+
+# SQL Server
+
+## Twitch
+- [BrentOzar](https://www.twitch.tv/brentozar)
