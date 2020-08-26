@@ -1,12 +1,16 @@
 # Learning
 List of learning resources.
 
-# Fun multilanguage
+# Multilanguage
 
-## code wars
+## Code wars
 
 - [codewars](https://www.codewars.com)
 - [codingame](https://www.codingame.com)
+
+## Challenges
+
+- [Practice.dev](https://practice.dev/)
 
 # Javascript
 
