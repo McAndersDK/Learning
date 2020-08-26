@@ -1,11 +1,23 @@
 # Learning
 List of learning resources.
 
+# Fun multilanguage
+
+## code wars
+
+- [codewars](https://www.codewars.com)
+- [codingame](https://www.codingame.com)
+
 # Javascript
 
 ## Interactive
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+
+## Courses
+
+- [The Odin Project](https://www.theodinproject.com/)
 
 ## Test Driven Learning. (TDL)
 
